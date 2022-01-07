@@ -1,4 +1,4 @@
-module golang.org/bigrocs/crypto
+module github.com/bigrocs/crypto
 
 go 1.17
 
